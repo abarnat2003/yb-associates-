@@ -486,7 +486,7 @@ Operating across Chennai and Madurai, we aim to build lasting relationships thro
 
             <div>
               <h3>Chennai</h3>
-              <p>YB Associates ,Vettuvabkeni chennai Tamilnadu - 600115 </p>
+              <p>YB Associates ,Vettuvankeni chennai Tamilnadu - 600115 </p>
               <span>Our Chennai Office</span>
             </div>
 
@@ -510,7 +510,6 @@ Operating across Chennai and Madurai, we aim to build lasting relationships thro
         </div>
 
         <p className="image-note">
-         YB Associates ,Vettuvabkeni chennai Tamilnadu - 600115 
         </p>
 
       </section>
